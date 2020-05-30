@@ -1,4 +1,3 @@
-import numpy
 from modified_alexnet import alexnet3
 import numpy as np
 
