@@ -1,0 +1,6 @@
+win32
+Open-cv
+numpy
+tflearn
+tensorflow-gpu
+ctypes
