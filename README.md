@@ -24,3 +24,13 @@ Self Driving Car on Grand Theft Auto 5 using Machine Learning and Deep Learning
 * tensorflow-gpu
 
 * ctypes
+
+## Profiles
+
+* [Github](https://github.com/chauhanmahavir)
+
+* [LinkedIn](https://www.linkedin.com/in/chauhan-mahaveer-13674b157)
+
+* [Twitter](https://twitter.com/Chauhan_Meet98)
+
+* [Kaggle](https://www.kaggle.com/mahavirchauhan)
